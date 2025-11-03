@@ -1,3 +1,4 @@
+node sigame-clicker.js
 const iohook = require('iohook'),
       robot = require('robotjs'),
       chalk = require('chalk'),
